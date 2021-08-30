@@ -13,6 +13,19 @@ This web page is managed and updated by the Manufacturing Department.
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
 
+## 30th August, 2021
+This update was worked on by Alikeshadow.
+
+### Added
+- SCAR-H to THI Scribe+.
+- The taser for people on the EC team.
+- Senior+ access 173's chamber.
+
+### Fixed
+- Vehicle Depot doors being accessible by Class-D.
+- Coffee tray permissions.
+- Alarm lights giving off purple colours when shot.
+
 ## August 8th, 2021
 This update was worked on by Alikeshadow.
 
