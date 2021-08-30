@@ -195,7 +195,7 @@ It should be noted that the rank of Associate within the department is not a sta
 
 ### Metadata
 - **Classification:** N/A
-- **Entry:** Granted upon reaching Level 3.
+- **Entry:** Closed.
 - **Monthly Funds:** 8,000 Robux
 - **Guidelines:** [http://bit.ly/3qI1VJN](http://bit.ly/3qI1VJN)
 - **Discord Server:** [https://discord.gg/Hz4AfQY](https://discord.gg/Hz4AfQY)
