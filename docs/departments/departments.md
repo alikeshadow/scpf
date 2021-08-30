@@ -194,8 +194,8 @@ It should be noted that the rank of Associate within the department is not a sta
 <img src="/images/logos/ces-logo.png" width="100px" height="100px">
 
 ### Metadata
-- **Classification:** Minor
-- **Entry:** Application Center (Level 2+) > Interview
+- **Classification:** N/A
+- **Entry:** Granted upon reaching Level 3.
 - **Monthly Funds:** 8,000 Robux
 - **Guidelines:** [http://bit.ly/3qI1VJN](http://bit.ly/3qI1VJN)
 - **Discord Server:** [https://discord.gg/Hz4AfQY](https://discord.gg/Hz4AfQY)
